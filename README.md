@@ -2,7 +2,7 @@
 
 <img alt='screen capture' src="./src/assets/movie.gif"></div>
 
-## Learning objectives
+## 🎯 Learning objectives
 
 - Use vite as `create-react-app` is now deprecated by the React Team
 - Use `npm create vite@latest`
@@ -11,11 +11,11 @@
 - Bind React components to user input elements
 - Make external API requests within a React application
 
-## API
+## 🔗 API
 
 - I used OMDB API: http://www.omdbapi.com/
 
-## React + Vite
+## 🚀 React + Vite
 
 This app was built with React working in Vite.
 
